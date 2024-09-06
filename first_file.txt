@@ -1,2 +1,4 @@
-this is first file on master
+this is first file on master, edit by feature-2
+2nd task on feature-2
 this line is added by master while feature-1 and feature-2 are also doing
+4th task on feature-2
