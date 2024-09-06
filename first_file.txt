@@ -1,1 +1,2 @@
 this is first file on master
+this line is added by master while feature-1 and feature-2 are also doing
